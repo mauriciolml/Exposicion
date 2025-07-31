@@ -1,6 +1,6 @@
-# Título del Proyecto
+# EXPOSICION EN EQUIPO COMANDOS DE LINUX
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_eXposicion en equipo de Cecy,Maurcio, Alan y Jair._
 
 ## Comenzando 🚀
 
@@ -22,6 +22,7 @@ Da un ejemplo
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 _Dí cómo será ese paso_
+
 
 ```
 Da un ejemplo
